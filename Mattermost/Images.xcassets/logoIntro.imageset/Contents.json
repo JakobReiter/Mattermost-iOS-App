@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "logoIntro.png",
+      "filename" : "theventury-2.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "logoIntro@2x.png",
+      "filename" : "theventury-1.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "logoIntro@3x.png",
+      "filename" : "theventury.png",
       "scale" : "3x"
     }
   ],
