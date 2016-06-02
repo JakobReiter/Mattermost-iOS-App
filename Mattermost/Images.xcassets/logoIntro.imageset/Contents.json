@@ -2,7 +2,7 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "theventury-2.png",
+      "filename" : "theventury.png",
       "scale" : "1x"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "idiom" : "universal",
-      "filename" : "theventury.png",
+      "filename" : "theventury-2.png",
       "scale" : "3x"
     }
   ],
