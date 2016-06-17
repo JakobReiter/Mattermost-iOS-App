@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F255FCAB1AC9AC1300FF6E23 /* Mattermost.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mattermost.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F255FCAB1AC9AC1300FF6E23 /* TheVentury.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheVentury.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F255FCAF1AC9AC1300FF6E23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F255FCB01AC9AC1300FF6E23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F255FCB71AC9AC1300FF6E23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -87,7 +87,7 @@
 		F255FCAC1AC9AC1300FF6E23 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F255FCAB1AC9AC1300FF6E23 /* Mattermost.app */,
+				F255FCAB1AC9AC1300FF6E23 /* TheVentury.app */,
 				F255FCC21AC9AC1300FF6E23 /* Mattermost.xctest */,
 			);
 			name = Products;
@@ -156,7 +156,7 @@
 			);
 			name = Mattermost;
 			productName = Mattermost;
-			productReference = F255FCAB1AC9AC1300FF6E23 /* Mattermost.app */;
+			productReference = F255FCAB1AC9AC1300FF6E23 /* TheVentury.app */;
 			productType = "com.apple.product-type.application";
 		};
 		F255FCC11AC9AC1300FF6E23 /* MattermostTests */ = {
@@ -388,8 +388,8 @@
 				INFOPLIST_FILE = Mattermost/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com-theventury-chat-ios";
-				PRODUCT_NAME = Mattermost;
+				PRODUCT_BUNDLE_IDENTIFIER = com.theventury.chat.ios2;
+				PRODUCT_NAME = TheVentury;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -404,8 +404,8 @@
 				INFOPLIST_FILE = Mattermost/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com-theventury-chat-ios";
-				PRODUCT_NAME = Mattermost;
+				PRODUCT_BUNDLE_IDENTIFIER = com.theventury.chat.ios2;
+				PRODUCT_NAME = TheVentury;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
